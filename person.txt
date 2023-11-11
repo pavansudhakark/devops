@@ -4,5 +4,3 @@ Class Person():
           number= self.number
       def details(self):
           print(self.name,self.number)
-          print("hi")
-
