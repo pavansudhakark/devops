@@ -1,0 +1,6 @@
+Class Person():
+      def__init__(self,self.name,self.number)
+          name=self.name
+          number= self.number
+      def details(self):
+          print(self.name,self.number)
