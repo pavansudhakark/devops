@@ -1,1 +1,2 @@
 print("locked")
+print("locking")
