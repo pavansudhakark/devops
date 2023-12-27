@@ -1,0 +1,284 @@
+[33mcommit a6758c2e93d25c851fd07896175075f94a826449[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev-1.2.4[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdev-1.2.4[m[33m)[m
+Merge: 9b2c112 e3c38c4
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 22:50:08 2023 +0530
+
+    resolved conflict
+
+[33mcommit e3c38c4f6293dd9807020f085cd8e3302783f4a7[m
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 22:45:00 2023 +0530
+
+    hi.py
+
+[33mcommit 9b2c1127604d834e4e4b140eff32057210f25074[m
+Merge: 2434902 b06385c
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 22:43:07 2023 +0530
+
+    hi.py
+
+[33mcommit 24349026be65411711bc3269710eb9c27160e0aa[m
+Author: pavansudhakark <146123536+pavansudhakark@users.noreply.github.com>
+Date:   Wed Dec 27 22:24:16 2023 +0530
+
+    Update hi.py
+
+[33mcommit 13c9dd60f6594decb6076bbb57ced6c7af2e13c3[m
+Author: pavansudhakark <146123536+pavansudhakark@users.noreply.github.com>
+Date:   Wed Dec 27 22:22:57 2023 +0530
+
+    Update hi.py
+
+[33mcommit ed882496ec3ce22fbca90ba6ef1aec14f8a845c6[m
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 12:47:16 2023 +0530
+
+    Revert " name change"
+    
+    This reverts commit 8cd3b8c8c220d33f9ed08f4109846c002bd8536f.
+
+[33mcommit 8cd3b8c8c220d33f9ed08f4109846c002bd8536f[m
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 12:46:22 2023 +0530
+
+     name change
+
+[33mcommit 511929a580950f6b1fd3a8e83085e64f0d1b8b29[m
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 12:41:29 2023 +0530
+
+    newchange
+
+[33mcommit 5b85c6a7fb9d3c215e982e46c3280579693673b1[m
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Wed Dec 27 12:40:40 2023 +0530
+
+    newfile
+
+[33mcommit 4587216478d7fadcd4964768debcaa2e18ccf407[m
+Author: pavan <kambalapavansudhakar@gmail.com>
+Date:   Fri Dec 22 16:08:41 2023 +0530
+
+    removed hello wolrd
+
+[33mcommit 8693b86e00413dc77c3404aa17db6af3f0287004[m
+Author: pavan <kambalapavansudhakar@gmail.com>
+Date:   Fri Dec 22 16:07:21 2023 +0530
+
+    removed ok from hi.py
+
+[33mcommit 97cf3ec47ba0bbe1b6e12941708d47dd13a6b848[m
+Author: pavan <kambalapavansudhakar@gmail.com>
+Date:   Fri Dec 22 16:04:45 2023 +0530
+
+    Revert "hi.y deleted"
+    
+    This reverts commit a9dcbfd0b93359370092076a7946de6b2087e630.
+
+[33mcommit a9dcbfd0b93359370092076a7946de6b2087e630[m
+Author: pavan <kambalapavansudhakar@gmail.com>
+Date:   Fri Dec 22 15:52:18 2023 +0530
+
+    hi.y deleted
+
+[33mcommit d24d24bba4e18959893a8fd8d7a22f128a7c41c5[m
+Author: pavan <coolpavanrocks@gmail.com>
+Date:   Sat Dec 16 19:18:10 2023 +0530
+
+    locking
+
+[33mcommit 1d0137145c7d3ad40dbc16b695d9a83937799d70[m
+Merge: 2defa4a d5ab8f0
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 14 14:45:58 2023 +0530
+
+    2024
+
+[33mcommit 2defa4a353d49e65df354de7b9d2e4272938147a[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 14 14:42:27 2023 +0530
+
+    2024
+
+[33mcommit d5ab8f0894da38bfc64ea93293b52c7065b7723e[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 14 14:40:07 2023 +0530
+
+    2023
+
+[33mcommit 705122ce43a61f3a248c023eac19c7aabde4acf3[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 14 00:23:00 2023 +0530
+
+    login.java
+
+[33mcommit 173e0011a0deaef105b5fe1f778e6313245f9605[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 14 00:20:43 2023 +0530
+
+    login.java
+
+[33mcommit 3448fa68e7d7a22efc7730eb8a4957fffcc134df[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Mon Nov 13 14:31:22 2023 +0530
+
+    locked
+
+[33mcommit 139cfd090717086a8a75d84101a96c6ea5941ade[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Mon Nov 13 14:26:05 2023 +0530
+
+    lock
+
+[33mcommit 6fb470ed20453cca07e3c671e982119542a18b58[m[33m ([m[1;31morigin/dev-1.2.9[m[33m, [m[1;32mdev-1.2.9[m[33m)[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 22:23:23 2023 +0530
+
+    Revert "deletion retreival"
+    
+    This reverts commit c2aebbc26b22361abf67436b7da3b7904f7180f8.
+
+[33mcommit f342cf335b40e0a0c6c8d0f729a46247b1870646[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 22:20:59 2023 +0530
+
+    Revert "gg"
+    
+    This reverts commit fe8dd3f95bf31ababb689a245464c67f9a6ae257.
+
+[33mcommit c378766ebf81a2e2022aff4eca7356deb7e83780[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 22:12:53 2023 +0530
+
+    Revert "restored.py file deleted"
+    
+    This reverts commit 9386fdc0713fd55a28cf09bfed5bb3c1a7dbc0e6.
+
+[33mcommit 9386fdc0713fd55a28cf09bfed5bb3c1a7dbc0e6[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 21:42:19 2023 +0530
+
+    restored.py file deleted
+
+[33mcommit 6c6ecc9800fa461e69dbab4be72490f2460d1c3c[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 21:38:50 2023 +0530
+
+    file name changed to restore.py to restored.py
+
+[33mcommit ea5be81d704da9d6bcac001c063fbef4bbbae45e[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 21:35:27 2023 +0530
+
+    restore file created
+
+[33mcommit fe8dd3f95bf31ababb689a245464c67f9a6ae257[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 21:32:43 2023 +0530
+
+    gg
+
+[33mcommit c2aebbc26b22361abf67436b7da3b7904f7180f8[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 20:39:22 2023 +0530
+
+    deletion retreival
+
+[33mcommit 8fb208ca510f69a691eee05e87b553b61e20bd50[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Sat Nov 11 20:34:29 2023 +0530
+
+    you will be good
+
+[33mcommit b06385cac4272a1c4019fa012d43c3278bcfaa55[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Fri Nov 10 14:10:14 2023 +0530
+
+    login
+
+[33mcommit f38f99b36aa45959560e9405cf982730563a04e3[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Fri Nov 10 14:07:59 2023 +0530
+
+    login
+
+[33mcommit a76596f66c7749334b5e53f007dfe3c4d5ed35d7[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 7 12:24:54 2023 +0530
+
+    add
+
+[33mcommit a21ce8c3de56d955ccd0729987582b0f8a08aadc[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Nov 7 12:21:34 2023 +0530
+
+    war_file
+
+[33mcommit 2622ebce42333a17d87f3a8f7716f43f95cdffd8[m
+Author: pavansudhakark <146123536+pavansudhakark@users.noreply.github.com>
+Date:   Mon Nov 6 12:35:54 2023 +0530
+
+    Update hi.py
+
+[33mcommit 50e6124f44ff1a0fb254cf6f516040480d9b573d[m
+Author: pavansudhakark <146123536+pavansudhakark@users.noreply.github.com>
+Date:   Mon Nov 6 12:35:35 2023 +0530
+
+    Update hi.py
+
+[33mcommit 941f847b3c48d478bcdf9eef1480fb5c96a51c7b[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Mon Nov 6 11:16:19 2023 +0530
+
+    hi pavan
+
+[33mcommit 5711f482bc796ee8bdcb1498d131a89334557bdd[m
+Author: pavansudhakark <146123536+pavansudhakark@users.noreply.github.com>
+Date:   Fri Oct 20 22:49:27 2023 +0530
+
+    Update hello world
+
+[33mcommit 932d478dd0252672e2c84ccdb37588ffbdb04a50[m
+Merge: ebd7449 d20915e
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Oct 17 20:29:11 2023 +0530
+
+    for login
+    Merge branch 'dev-1.2.3'
+
+[33mcommit d20915e2655cb096bbf7901d6ef4a1b4ca5158e6[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Oct 17 20:07:49 2023 +0530
+
+    hello
+
+[33mcommit ebd7449753d7c3f5ff13413922b922be19f8bc16[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Oct 17 18:58:15 2023 +0530
+
+    some modi
+
+[33mcommit 51158555cc2bfc43bdb29ea8046e507ad8da6467[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Oct 17 18:54:30 2023 +0530
+
+    some extra text
+
+[33mcommit 516f369ca0552def66813be7ab743b9e129cb901[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Fri Oct 13 20:40:34 2023 +0530
+
+    vim
+
+[33mcommit e76379376220f364b0b54a99e3a260b1e7f0bd71[m
+Author: pavan <pavansudhakarkambala@gamil.com>
+Date:   Tue Oct 10 20:27:07 2023 +0530
+
+    hello code
+
+[33mcommit 14e77f73d8525a39b90e870ea407339fa2782035[m
+Author: pavansudhakark <146123536+pavansudhakark@users.noreply.github.com>
+Date:   Fri Sep 29 12:35:10 2023 +0530
+
+    Create hello world
